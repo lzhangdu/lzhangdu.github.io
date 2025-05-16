@@ -23,4 +23,3 @@ Hi! I am an undergraduate student majoring in Computer Science & Mathematics in 
 - Selected Undergraduate courses:
 
 ## Awards
-
