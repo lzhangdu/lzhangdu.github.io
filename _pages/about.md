@@ -13,5 +13,14 @@ Hi! I am an undergraduate student majoring in Computer Science & Mathematics in 
 ## Education
 
 - BSc in Computer Science & Mathematics, Hong Kong University of Science and Technology
+- Exchange (Computer Science), GaTech, Fall 2025
 
 ## Research Experience
+
+## Academics
+
+- Cumulative GPA: 4.xxx/4.3
+- Selected Undergraduate courses:
+
+## Awards
+

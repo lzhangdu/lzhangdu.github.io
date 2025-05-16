@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Luoyi ZHANG"
 title_separator          : "-"
-name                     : &name "Luoyi ZHANG"
+name                     : &name "Luoyi Zhang"
 description              : &description "personal description"
 url                      : "https://lzhangdu.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -47,7 +47,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "lzhangdu"
-  kaggle           : # Username  
+  kaggle           : "Royalty" 
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
