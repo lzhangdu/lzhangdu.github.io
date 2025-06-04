@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an undergraduate student majoring in Computer Science & Mathematics in The Hong Kong University of Science and Technology (HKUST).
+Hello! I'm an undergraduate student at The Hong Kong University of Science and Technology (HKUST), pursuing a double major in Computer Science and Mathematics. Passionate about exploring the interdisciplinary depths of computing, currently my aim is to broaden my expertise across theoretical foundations and practical applications.
 
 ## Education
 
@@ -19,7 +19,10 @@ Hi! I am an undergraduate student majoring in Computer Science & Mathematics in 
 
 ## Academics
 
-- Cumulative GPA: 4.xxx/4.3
-- Selected Undergraduate courses:
+- Cumulative GPA: 4.1xx/4.3
+- Selected Undergraduate courses: Honors Probability (A+), Algorithms...
 
 ## Awards
+
+- University's Scholarship Scheme for Continuing Undergraduate Students
+- Dean's List in every semester
