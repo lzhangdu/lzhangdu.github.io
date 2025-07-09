@@ -3,7 +3,7 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -20,7 +20,10 @@ Hello! I'm an undergraduate student at The Hong Kong University of Science and T
 ## Academics
 
 - Cumulative GPA: 4.1xx/4.3
-- Selected Undergraduate courses: Honors Probability (A+), Algorithms...
+- Selected Undergraduate courses
+  - COMP2012 C++ OOP and Data Structures (A+)
+  - COMP3711 Algorithms (A+)...
+  - MATH2431 Honors Probability (A+)...
 
 ## Awards
 
