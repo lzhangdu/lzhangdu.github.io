@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Luoyi ZHANG"
+title                    : "Luoyi Zhang"
 title_separator          : "-"
 name                     : &name "Luoyi Zhang"
 description              : &description "personal description"
