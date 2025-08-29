@@ -8,7 +8,11 @@ main:
   - title: "Learning"
     url: /learning/
     
-  - title: "Publications"
-    url: /publications/
-
-  
+  - title: "GT Projects"
+    url: /gt-projects/
+    children:
+      - title: "GT Projects"
+        url: /gt-projects/
+      - title: "CS2340 - Movies Store"
+        url: /gt-projects/cs2340-ms/
+      

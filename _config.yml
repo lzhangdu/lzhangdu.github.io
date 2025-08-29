@@ -27,7 +27,7 @@ author:
   name2            : "张络屹"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate @ HKUST"
-  location         : "Hong Kong"
+  location         : "Atlanta, GA"
   employer         :
   uri              : # URL
   email            : lzhangdu@connect.ust.hk
@@ -47,7 +47,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "lzhangdu"
-  kaggle           : "givemeyourroyalty" 
+  kaggle           : # Username 
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
